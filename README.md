@@ -2,7 +2,7 @@
 
 [![Semester](https://img.shields.io/badge/Semester-Spring%202024-blue)]() [![Project](https://img.shields.io/badge/Project-Multimedia%20Content%20Analysis%20Project%203-orange)]()
 
-🚀 check out the [report](./CNN%20classifier.pdf) for more detail.
+🚀 Check out the [report](./CNN%20classifier.pdf) for more detail.
 
 ---
 
